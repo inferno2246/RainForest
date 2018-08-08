@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RainForest</string>
+    <string name="enter_hint">Enter</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="go_button">Go!</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBPaO1-drzMnnSXjAoh66Fo3PxI1USVtAU</string>
+    <string name="open_map_menu">Open Map</string>
+</resources>
